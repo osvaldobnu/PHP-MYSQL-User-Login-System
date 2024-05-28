@@ -2,7 +2,7 @@
 session_start();
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 
 <head>
   <meta charset="UTF-8">
@@ -75,12 +75,12 @@ session_start();
 
             <div class="input-container">
               <i class="fa fa-envelope icon"></i>
-              <input class="input-field" type="email" placeholder="Email Address" name="email">
+              <input class="input-field" type="email" placeholder="Digite seu e-mail..." name="email">
             </div>
 
             <div class="input-container">
               <i class="fa fa-lock icon"></i>
-              <input class="input-field password" type="password" placeholder="Password" name="password">
+              <input class="input-field password" type="password" placeholder="Digite sua senha..." name="password">
               <i class="fa fa-eye toggle icon"></i>
             </div>
 
